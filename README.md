@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Hemanthmeesala/Leetcode/tree/master/0007-reverse-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 # String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemanthmeesala/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Hemanthmeesala/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 # Stack
 |  |
 | ------- |
@@ -49,3 +51,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+# Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/2032-largest-odd-number-in-string) |
