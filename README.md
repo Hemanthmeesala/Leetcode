@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Hemanthmeesala/Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 # String
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0739-daily-temperatures](https://github.com/Hemanthmeesala/Leetcode/tree/master/0739-daily-temperatures) |
@@ -45,6 +47,7 @@
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/2047-find-a-peak-element-ii) |
