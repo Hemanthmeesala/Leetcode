@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Hemanthmeesala/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Hemanthmeesala/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Hemanthmeesala/Leetcode/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 # String
@@ -75,3 +76,11 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Hemanthmeesala/Leetcode/tree/master/0231-power-of-two) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
