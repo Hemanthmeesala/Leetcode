@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Hemanthmeesala/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Hemanthmeesala/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 # String
@@ -96,3 +97,11 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
+# Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0258-add-digits) |
+# Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0258-add-digits) |
