@@ -117,3 +117,7 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
