@@ -4,6 +4,7 @@
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hemanthmeesala/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hemanthmeesala/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Hemanthmeesala/Leetcode/tree/master/0066-plus-one) |
@@ -83,6 +84,7 @@
 # Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hemanthmeesala/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Hemanthmeesala/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Hemanthmeesala/Leetcode/tree/master/0326-power-of-three) |
 # Dynamic Programming
@@ -120,4 +122,5 @@
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hemanthmeesala/Leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
