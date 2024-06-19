@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Hemanthmeesala/Leetcode/tree/master/0326-power-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Hemanthmeesala/Leetcode/tree/master/2050-count-good-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 # String
 |  |
@@ -99,6 +100,7 @@
 | [0231-power-of-two](https://github.com/Hemanthmeesala/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Hemanthmeesala/Leetcode/tree/master/0326-power-of-three) |
+| [2050-count-good-numbers](https://github.com/Hemanthmeesala/Leetcode/tree/master/2050-count-good-numbers) |
 # Dynamic Programming
 |  |
 | ------- |
