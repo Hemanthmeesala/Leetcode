@@ -14,6 +14,7 @@
 | [0263-ugly-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Hemanthmeesala/Leetcode/tree/master/0326-power-of-three) |
+| [1086-divisor-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/1086-divisor-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Hemanthmeesala/Leetcode/tree/master/2050-count-good-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
+| [1086-divisor-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/1086-divisor-game) |
 # Memoization
 |  |
 | ------- |
@@ -152,3 +154,11 @@
 | [0328-odd-even-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+# Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/1086-divisor-game) |
+# Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/1086-divisor-game) |
