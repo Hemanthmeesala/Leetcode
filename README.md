@@ -42,6 +42,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/Hemanthmeesala/Leetcode/tree/master/0739-daily-temperatures) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Hemanthmeesala/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2047-find-a-peak-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2737-row-with-maximum-ones](https://github.com/Hemanthmeesala/Leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -52,6 +53,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Hemanthmeesala/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2047-find-a-peak-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 # Divide and Conquer
