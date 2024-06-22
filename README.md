@@ -40,6 +40,7 @@
 | [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Hemanthmeesala/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Hemanthmeesala/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
