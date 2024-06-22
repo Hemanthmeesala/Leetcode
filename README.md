@@ -35,6 +35,7 @@
 | [0234-palindrome-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Hemanthmeesala/Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Hemanthmeesala/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Hemanthmeesala/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 # Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/Hemanthmeesala/Leetcode/tree/master/0739-daily-temperatures) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Hemanthmeesala/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Hemanthmeesala/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2047-find-a-peak-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2737-row-with-maximum-ones](https://github.com/Hemanthmeesala/Leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0258-add-digits) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Hemanthmeesala/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 # Number Theory
 |  |
 | ------- |
