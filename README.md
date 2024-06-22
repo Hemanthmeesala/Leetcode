@@ -40,6 +40,7 @@
 | [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Hemanthmeesala/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Hemanthmeesala/Leetcode/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -97,6 +98,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Hemanthmeesala/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Hemanthmeesala/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -170,3 +172,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/1086-divisor-game) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Hemanthmeesala/Leetcode/tree/master/0078-subsets) |
