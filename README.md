@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hemanthmeesala/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hemanthmeesala/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Hemanthmeesala/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Hemanthmeesala/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
@@ -98,6 +99,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Hemanthmeesala/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Hemanthmeesala/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Hemanthmeesala/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
