@@ -11,6 +11,7 @@
 | [0050-powx-n](https://github.com/Hemanthmeesala/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Hemanthmeesala/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanthmeesala/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Hemanthmeesala/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0258-add-digits) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemanthmeesala/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanthmeesala/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Hemanthmeesala/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Hemanthmeesala/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hemanthmeesala/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -47,6 +49,7 @@
 | [0066-plus-one](https://github.com/Hemanthmeesala/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Hemanthmeesala/Leetcode/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanthmeesala/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
