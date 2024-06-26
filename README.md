@@ -59,6 +59,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/Hemanthmeesala/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2047-find-a-peak-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2737-row-with-maximum-ones](https://github.com/Hemanthmeesala/Leetcode/tree/master/2737-row-with-maximum-ones) |
 # Binary Search
 |  |
@@ -140,6 +141,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hemanthmeesala/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0268-missing-number) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 # Sorting
 |  |
 | ------- |
@@ -200,3 +202,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Hemanthmeesala/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hemanthmeesala/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+# Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
