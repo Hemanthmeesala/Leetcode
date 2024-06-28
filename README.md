@@ -206,3 +206,22 @@
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
+## Hash Table
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
+## Two Pointers
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
+## Binary Search
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
+<!---LeetCode Topics End-->
