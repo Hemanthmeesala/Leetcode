@@ -212,11 +212,13 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
+| [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
+| [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -243,8 +245,13 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
