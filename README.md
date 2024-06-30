@@ -211,6 +211,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -224,6 +225,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
@@ -245,6 +247,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -255,6 +258,11 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
