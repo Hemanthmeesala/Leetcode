@@ -213,6 +213,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -308,4 +309,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
