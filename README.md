@@ -211,6 +211,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Hemanthmeesala/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -224,6 +225,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Hemanthmeesala/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Hemanthmeesala/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
