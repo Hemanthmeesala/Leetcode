@@ -221,6 +221,7 @@
 | [0503-next-greater-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Hemanthmeesala/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hemanthmeesala/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hemanthmeesala/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/Hemanthmeesala/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## Hash Table
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hemanthmeesala/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -327,4 +329,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanthmeesala/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hemanthmeesala/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
