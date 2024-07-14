@@ -247,6 +247,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hemanthmeesala/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Hemanthmeesala/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +275,7 @@
 | [0402-remove-k-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hemanthmeesala/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hemanthmeesala/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Hemanthmeesala/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hemanthmeesala/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hemanthmeesala/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Hemanthmeesala/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
