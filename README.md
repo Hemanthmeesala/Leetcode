@@ -269,6 +269,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanthmeesala/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Hemanthmeesala/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Hemanthmeesala/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
+| [0367-valid-perfect-square](https://github.com/Hemanthmeesala/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Stack
