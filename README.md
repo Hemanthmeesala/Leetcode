@@ -277,6 +277,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanthmeesala/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Hemanthmeesala/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Hemanthmeesala/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Hemanthmeesala/Leetcode/tree/master/0455-assign-cookies) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
@@ -297,6 +298,7 @@
 | [0076-minimum-window-substring](https://github.com/Hemanthmeesala/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Hemanthmeesala/Leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
+| [0392-is-subsequence](https://github.com/Hemanthmeesala/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hemanthmeesala/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -354,6 +356,7 @@
 | [0045-jump-game-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanthmeesala/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Hemanthmeesala/Leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hemanthmeesala/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
