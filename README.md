@@ -336,6 +336,7 @@
 | [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -458,12 +459,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
