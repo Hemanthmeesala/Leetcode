@@ -334,6 +334,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemanthmeesala/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0402-remove-k-digits) |
@@ -453,4 +454,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
