@@ -311,6 +311,7 @@
 | [0402-remove-k-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hemanthmeesala/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hemanthmeesala/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Hemanthmeesala/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -482,4 +483,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
