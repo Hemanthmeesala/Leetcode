@@ -219,6 +219,7 @@
 | [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Hemanthmeesala/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Hemanthmeesala/Leetcode/tree/master/0057-insert-interval) |
@@ -381,6 +382,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Hemanthmeesala/Leetcode/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -430,6 +432,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hemanthmeesala/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hemanthmeesala/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Union Find
 |  |
