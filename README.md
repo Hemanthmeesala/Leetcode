@@ -241,6 +241,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Hemanthmeesala/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Hemanthmeesala/Leetcode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -302,6 +303,7 @@
 | [0278-first-bad-version](https://github.com/Hemanthmeesala/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Hemanthmeesala/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -407,6 +409,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -516,4 +519,20 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0812-rotate-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
