@@ -8,8 +8,8 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             preSum += nums[i];
-            int remove = preSum-k;
-            count += mp[remove];
+            int num = preSum-k;
+            count += mp[num];
             mp[preSum] += 1;
         }
         return count;
