@@ -240,6 +240,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Hemanthmeesala/Leetcode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0435-non-overlapping-intervals](https://github.com/Hemanthmeesala/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Hemanthmeesala/Leetcode/tree/master/0455-assign-cookies) |
@@ -271,6 +272,7 @@
 | [0169-majority-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hemanthmeesala/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hemanthmeesala/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -345,6 +347,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/Hemanthmeesala/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Stack
@@ -561,4 +564,12 @@
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/Hemanthmeesala/Leetcode/tree/master/1622-max-value-of-equation) |
+## Design
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
