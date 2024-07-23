@@ -1,35 +1,28 @@
 class Solution {
+private:
+    void helper(int i,string& ans,string s){
+        while(s[i] != ' ' && i < s.size()){
+            ans += s[i++];
+        }
+    }
 public:
     string reverseWords(string s) {
-        
+        int i = s.size()-1;
+        while(s[i] == ' ') i--;
+
         string ans = "";
-        string temp = "";
-        for(int i = s.size()-1; i>=0; i--){
 
-            if(s[i] != ' '){
-                temp = s[i] + temp;
+        while(i >= 0){
+            if(s[i] == ' ' && s[i+1] != ' '){
+                helper(i+1,ans,s);
+                ans += ' ';
             }
-            else{
-                while( i>=0   &&   s[i] == ' '){
-                    i--;
-                }
-
-                if(i>=0 && temp.size()>0){
-                    ans = ans + temp;
-                    ans = ans + ' ';
-                }
-
-                if(i>=0){
-                    temp = s[i];
-                }
+            if(s[i] != ' ' && i == 0){
+                helper(i,ans,s);
             }
+            i--;
         }
-
-        if(temp.size() > 0 ){
-            ans = ans + temp;
-        }
-
+        if(ans.back() == ' ') ans.pop_back();
         return ans;
-
     }
 };
