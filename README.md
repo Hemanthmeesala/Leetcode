@@ -335,6 +335,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Hemanthmeesala/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/Hemanthmeesala/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hemanthmeesala/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -362,6 +363,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hemanthmeesala/Leetcode/tree/master/0012-integer-to-roman) |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/Hemanthmeesala/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -378,6 +380,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hemanthmeesala/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0503-next-greater-element-ii) |
