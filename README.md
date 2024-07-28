@@ -242,6 +242,7 @@
 | [0283-move-zeroes](https://github.com/Hemanthmeesala/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Hemanthmeesala/Leetcode/tree/master/0289-game-of-life) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0435-non-overlapping-intervals](https://github.com/Hemanthmeesala/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -325,6 +326,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanthmeesala/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Hemanthmeesala/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/Hemanthmeesala/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
@@ -471,6 +473,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
@@ -601,18 +604,22 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
