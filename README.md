@@ -245,6 +245,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0410-split-array-largest-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hemanthmeesala/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Hemanthmeesala/Leetcode/tree/master/0455-assign-cookies) |
@@ -329,6 +330,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/Hemanthmeesala/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## String
@@ -443,6 +445,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Hemanthmeesala/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hemanthmeesala/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hemanthmeesala/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -464,6 +467,7 @@
 | [0134-gas-station](https://github.com/Hemanthmeesala/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hemanthmeesala/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Hemanthmeesala/Leetcode/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hemanthmeesala/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Hemanthmeesala/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -500,6 +504,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
