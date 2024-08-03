@@ -267,6 +267,7 @@
 | [1622-max-value-of-equation](https://github.com/Hemanthmeesala/Leetcode/tree/master/1622-max-value-of-equation) |
 | [2227-sum-of-subarray-ranges](https://github.com/Hemanthmeesala/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/Hemanthmeesala/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,6 +385,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthmeesala/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/Hemanthmeesala/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Math
 |  |
 | ------- |
@@ -479,6 +481,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Hemanthmeesala/Leetcode/tree/master/0890-lemonade-change) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/Hemanthmeesala/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Divide and Conquer
 |  |
 | ------- |
