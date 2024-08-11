@@ -267,6 +267,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Hemanthmeesala/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hemanthmeesala/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Hemanthmeesala/Leetcode/tree/master/1622-max-value-of-equation) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2227-sum-of-subarray-ranges](https://github.com/Hemanthmeesala/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Hemanthmeesala/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -537,6 +538,7 @@
 | [0054-spiral-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Hemanthmeesala/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Hemanthmeesala/Leetcode/tree/master/0289-game-of-life) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
 | ------- |
@@ -621,6 +623,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -657,6 +660,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## String Matching
 |  |
 | ------- |
@@ -719,4 +723,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
