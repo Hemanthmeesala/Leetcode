@@ -397,6 +397,7 @@
 | [0009-palindrome-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Hemanthmeesala/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Hemanthmeesala/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Hemanthmeesala/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Hemanthmeesala/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -455,6 +456,7 @@
 | [0042-trapping-rain-water](https://github.com/Hemanthmeesala/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Hemanthmeesala/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Hemanthmeesala/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanthmeesala/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -736,4 +738,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hemanthmeesala/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hemanthmeesala/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
