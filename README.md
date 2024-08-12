@@ -227,6 +227,7 @@
 | [0056-merge-intervals](https://github.com/Hemanthmeesala/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Hemanthmeesala/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Hemanthmeesala/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Hemanthmeesala/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Hemanthmeesala/Leetcode/tree/master/0075-sort-colors) |
@@ -459,6 +460,7 @@
 | [0055-jump-game](https://github.com/Hemanthmeesala/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Hemanthmeesala/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Hemanthmeesala/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanthmeesala/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -542,6 +544,7 @@
 | [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Hemanthmeesala/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Hemanthmeesala/Leetcode/tree/master/0289-game-of-life) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
