@@ -273,6 +273,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hemanthmeesala/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Hemanthmeesala/Leetcode/tree/master/1622-max-value-of-equation) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/Hemanthmeesala/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Hemanthmeesala/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -332,6 +333,7 @@
 | [0455-assign-cookies](https://github.com/Hemanthmeesala/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
@@ -345,6 +347,7 @@
 | [0367-valid-perfect-square](https://github.com/Hemanthmeesala/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2634-minimum-common-value](https://github.com/Hemanthmeesala/Leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -479,6 +482,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Hemanthmeesala/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Hemanthmeesala/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -598,6 +602,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Hemanthmeesala/Leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Tree
 |  |
 | ------- |
@@ -706,6 +711,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Hemanthmeesala/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Hemanthmeesala/Leetcode/tree/master/0493-reverse-pairs) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Queue
 |  |
 | ------- |
@@ -756,4 +762,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Hemanthmeesala/Leetcode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
