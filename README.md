@@ -366,6 +366,7 @@
 | [0022-generate-parentheses](https://github.com/Hemanthmeesala/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Hemanthmeesala/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Hemanthmeesala/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Hemanthmeesala/Leetcode/tree/master/0067-add-binary) |
