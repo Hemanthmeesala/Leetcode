@@ -300,6 +300,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Hemanthmeesala/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Hemanthmeesala/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Hemanthmeesala/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Hemanthmeesala/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Hemanthmeesala/Leetcode/tree/master/0217-contains-duplicate) |
@@ -609,6 +610,7 @@
 | [0141-linked-list-cycle](https://github.com/Hemanthmeesala/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Hemanthmeesala/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Enumeration
@@ -746,6 +748,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hemanthmeesala/Leetcode/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hemanthmeesala/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -791,4 +794,8 @@
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Hemanthmeesala/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
