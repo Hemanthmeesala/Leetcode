@@ -375,6 +375,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hemanthmeesala/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Hemanthmeesala/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Hemanthmeesala/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Hemanthmeesala/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Hemanthmeesala/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Hemanthmeesala/Leetcode/tree/master/0067-add-binary) |
@@ -420,6 +421,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Hemanthmeesala/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Hemanthmeesala/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Hemanthmeesala/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Hemanthmeesala/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Hemanthmeesala/Leetcode/tree/master/0067-add-binary) |
@@ -507,6 +509,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Hemanthmeesala/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Hemanthmeesala/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Hemanthmeesala/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Hemanthmeesala/Leetcode/tree/master/0068-text-justification) |
