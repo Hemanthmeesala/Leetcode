@@ -403,6 +403,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Hemanthmeesala/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Hemanthmeesala/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Hemanthmeesala/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -521,6 +522,7 @@
 | [0289-game-of-life](https://github.com/Hemanthmeesala/Leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Hemanthmeesala/Leetcode/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hemanthmeesala/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Hemanthmeesala/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
