@@ -637,6 +637,7 @@
 | [0146-lru-cache](https://github.com/Hemanthmeesala/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -676,6 +677,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hemanthmeesala/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -694,6 +696,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
@@ -720,6 +723,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hemanthmeesala/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -733,6 +737,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## String Matching
 |  |
