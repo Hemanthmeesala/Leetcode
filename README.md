@@ -248,6 +248,7 @@
 | [0134-gas-station](https://github.com/Hemanthmeesala/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hemanthmeesala/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanthmeesala/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Hemanthmeesala/Leetcode/tree/master/0198-house-robber) |
@@ -358,6 +359,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Hemanthmeesala/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanthmeesala/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Hemanthmeesala/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Hemanthmeesala/Leetcode/tree/master/0287-find-the-duplicate-number) |
