@@ -398,6 +398,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Hemanthmeesala/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Hemanthmeesala/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Hemanthmeesala/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Hemanthmeesala/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Hemanthmeesala/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Hemanthmeesala/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -751,6 +752,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Hemanthmeesala/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Hemanthmeesala/Leetcode/tree/master/0812-rotate-string) |
 ## Binary Indexed Tree
 |  |
@@ -848,4 +850,12 @@
 | [0595-big-countries](https://github.com/Hemanthmeesala/Leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Hemanthmeesala/Leetcode/tree/master/1827-invalid-tweets) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Hemanthmeesala/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Hemanthmeesala/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
