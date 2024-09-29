@@ -313,6 +313,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Hemanthmeesala/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hemanthmeesala/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/Hemanthmeesala/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Hemanthmeesala/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemanthmeesala/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -644,6 +645,7 @@
 | [0143-reorder-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Hemanthmeesala/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Hemanthmeesala/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0908-middle-of-the-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hemanthmeesala/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -790,6 +792,7 @@
 | [0146-lru-cache](https://github.com/Hemanthmeesala/Leetcode/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hemanthmeesala/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Hemanthmeesala/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Hemanthmeesala/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hemanthmeesala/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Randomized
 |  |
@@ -839,6 +842,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Hemanthmeesala/Leetcode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Hemanthmeesala/Leetcode/tree/master/0432-all-oone-data-structure) |
 ## Number Theory
 |  |
 | ------- |
