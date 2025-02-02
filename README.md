@@ -284,6 +284,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Hemanthmeesala/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Hemanthmeesala/Leetcode/tree/master/1622-max-value-of-equation) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hemanthmeesala/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Hemanthmeesala/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hemanthmeesala/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hemanthmeesala/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Hemanthmeesala/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
